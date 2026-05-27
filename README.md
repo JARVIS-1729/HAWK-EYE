@@ -133,4 +133,4 @@ The project also improved practical knowledge in networking, embedded systems, d
 
 
 # Author
-developer : K. Likhith Bhanu
+K. Likhith Bhanu
