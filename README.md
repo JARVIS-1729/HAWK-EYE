@@ -71,6 +71,10 @@ Gateway-Based Communication
 Real-Time Device Tracking
 
 
+# Setup image of the Hardware
+Below is the hardware setup of HAWK-EYE
+![setup](images/Hawk-eye Setup.jpeg)
+
 # Skills Applied
 ESP32 Programming
 Embedded Systems Development
