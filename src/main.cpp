@@ -118,11 +118,11 @@ void printClients() {
 
       connectTime[index] = millis();
 
-      // 🔥 FRIENDLY / UNFRIENDLY PRINT
+      //  FRIENDLY / UNFRIENDLY PRINT
       if (isFriendly(mac)) {
-        Serial.print("🟢 FRIENDLY DEVICE CONNECTED: ");
+        Serial.print(" FRIENDLY DEVICE CONNECTED: ");
       } else {
-        Serial.print("⚠️ UNRECOGNIZED DEVICE CONNECTED: ");
+        Serial.print(" UNRECOGNIZED DEVICE CONNECTED: ");
       }
 
       Serial.println(deviceNames[index]);
@@ -184,7 +184,7 @@ void printClients() {
 
         Serial.print("Device: ");
 
-        // 🔥 Friendly Tag in Live List
+        //  Friendly Tag in Live List
         if (isFriendly(mac)) {
           Serial.print("[Friendly] ");
         } else {
