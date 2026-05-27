@@ -1,4 +1,4 @@
-# Hawk-Eye — Smart Gateway with Wi‑Fi Monitoring using ESP32
+# Hawk-Eye (Smart Gateway with Wi‑Fi Monitoring using ESP32)
 
 Hawk-Eye is a lightweight Wi‑Fi monitoring system built using the ESP32 microcontroller. 
 The project focuses on tracking devices connected through an ESP32 access point and monitoring their network activity in real time.
